@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$({a..z}{a..z}\n~oo)" 
+bash -c echo a.suffix  b.suffix  c.suffix  d.suffix  e.suffix  f.suffix  g.suffix  h.suffix  i.suffix  j.suffix  k.suffix  l.suffix  m.suffix  n.suffix  o.suffix  p.suffix  q.suffix  r.suffix  s.suffix  t.suffix  u.suffix  v.suffix  w.suffix  x.suffix  y.suffix  z.suffix  a.suffix  b.suffix  c.suffix  d.suffix  e.suffix  f.suffix  g.suffix  h.suffix  i.suffix  j.suffix  k.suffix  l.suffix  m.suffix  n.suffix  o.suffix  p.suffix  q.suffix  r.suffix  s.suffix  t.suffix  u.suffix  v.suffix  w.suffix  x.suffix  y.suffix  z.suffix 
